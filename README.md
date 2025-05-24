@@ -11,13 +11,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-ISTKHAR/ISTKHAR_CHATBOTV2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Silenthrax/CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h4 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/TEAM-ISTKHAR/ISTKHAR_CHATBOT/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Silenthrax/CHATBOT/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
