@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/TEAM-ISTKHAR/ISTKHAR-CHATBOT",
+  "repository": "https://github.com/Silenthrax/CHATBOT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
