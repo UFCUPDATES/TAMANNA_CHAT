@@ -1,10 +1,10 @@
-<h1 align="center">「 ɪsᴛᴋʜᴀʀ ᴄʜᴀᴛʙᴏᴛ   」
+<h1 align="center">「 ᴛᴀᴍᴀɴɴᴀ ᴄʜᴀᴛʙᴏᴛ   」
 
 <h2 align="center">
     ──「 ᴄʜᴀᴛʙᴏᴛ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/b55448f8abd23f24ee425.jpg">
+  <img src="https://files.catbox.moe/mbcwp7.jpg">
 </p>
 
 <h3 align="center">
