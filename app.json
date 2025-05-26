@@ -1,7 +1,7 @@
 {
-  "name": "ISTKHAR_CHATBOT",
+  "name": "TAMANNA_CHAT_BOT",
   "description": "A telegram bot",
-  "logo": "https://files.catbox.moe/fgfwbn.jpg",
+  "logo": "https://files.catbox.moe/sh1fxn.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Silenthrax/CHATBOT",
+  "repository": "https://github.com/UFCUPDATES/TAMANNA_CHAT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
