@@ -16,7 +16,7 @@ DEV_OP = [
     [
         InlineKeyboardButton(
             text="❍ 𝐀ᴅᴅ 𝐌ᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ ❍",
-            url=f"https://t.me/{ISTKHAR_CHATBOT.username}?startgroup=true",
+            url=f"https://t.me/TAMANNA_CHAT_BOT?startgroup=true",
         ),
     ],
     [
